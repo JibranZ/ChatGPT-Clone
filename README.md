@@ -81,7 +81,7 @@ To get a local copy up and running, follow these steps:
 - **View Old Chats**: Access and review previous conversations from the chat history section.
 - **Start New Chats**: Create new conversations by entering text in the chat input area.
 
-![App Image 1](https://imgur.com/37qjtqN)
+![App Image 1](https://i.imgur.com/37qjtqN.png)
 ![App Image 1](https://imgur.com/a/hv2t2BU)
 ![App Image 1](https://imgur.com/a/4iQHV5U)
 
