@@ -82,7 +82,7 @@ To get a local copy up and running, follow these steps:
 - **Start New Chats**: Create new conversations by entering text in the chat input area.
 
 ![App Image 1](https://i.imgur.com/37qjtqN.png)
-![App Image 1](https://imgur.com/a/hv2t2BU)
-![App Image 1](https://imgur.com/a/4iQHV5U)
+![App Image 1](https://i.imgur.com/jBMxteo.png)
+![App Image 1](https://i.imgur.com/iuZ8fGW.png)
 
 
